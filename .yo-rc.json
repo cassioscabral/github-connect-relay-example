@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "githubConnectRelayExample",
+    "style": "scss",
+    "postcss": true
+  }
+}
